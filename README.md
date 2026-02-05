@@ -1,4 +1,4 @@
-# 🔐 Enhanced SQL Injection Detection & Attack Classification with LSTM Networks
+# 🔐 SQL Injection Detection System 
 
 ---
 
